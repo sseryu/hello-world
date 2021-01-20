@@ -19,3 +19,4 @@ disp(solution)
 % ex=sum(data)+(a-1)*((p^2-1)/8);
 % disp(ex)
 
+# shisfhk
